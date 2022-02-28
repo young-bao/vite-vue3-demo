@@ -21,7 +21,11 @@ interface BaseResponse<T = any> {
   data: T;
   msg: string;
 }
-
+/**
+ *
+ * @param config 请求配置
+ * @returns Promise
+ */
 const request = <T = any>(
   config: UserAxiosRequestConfig
 ): Promise<BaseResponse<T>> => {
