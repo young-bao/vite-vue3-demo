@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/young-bao/vite-vue3-demo/compare/v0.0.2...v0.0.3) (2022-02-28)
+
+
+### Features
+
+* **helloworld router/index.ts:** add helloworld component counter's function and router ([2cb6f9d](https://github.com/young-bao/vite-vue3-demo/commit/2cb6f9d190bab45adc5fd0abe1ba27c068a96de8))
+
 ### [0.0.2](https://github.com/young-bao/vite-vue3-demo/compare/v0.0.1...v0.0.2) (2022-02-28)
 
 
