@@ -1,5 +1,5 @@
 <template>
-  <div>计数器的功能：{{ counter }}</div>
+  <div @click="addition">计数器的功能：{{ counter }}</div>
 </template>
 
 <script setup lang="ts">
