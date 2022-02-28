@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/young-bao/vite-vue3-demo/compare/v2.1.4...v2.2.0) (2022-02-28)
+
+
+### Features
+
+* **a.vue:** add A component ([3477dff](https://github.com/young-bao/vite-vue3-demo/commit/3477dffb3c4e7c48509734f2bfe7345883b256be))
+
 ### [2.1.4](https://github.com/young-bao/vite-vue3-demo/compare/v2.1.3...v2.1.4) (2022-02-28)
 
 
